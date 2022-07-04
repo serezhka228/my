@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/drawable/ic_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/drawable/ic_bar2.xml" value="0.1" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/drawable/ic_bar3.xml" value="0.1" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/drawable/ic_bar4.xml" value="0.1" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/activity_registration.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/activity_start_menu.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/activity_the_magicians.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/video.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/UserHome/Desktop/WorldCinema/app/src/main/res/layout/videoo.xml" value="0.24547101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
